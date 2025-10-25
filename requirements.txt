@@ -4,10 +4,10 @@ sounddevice
 glitch_this
 PyOpenGL
 glfw
-scipy >=1.13.1
+scipy
 requests
 aiohttp
-moviepy==1.0.3
+moviepy
 matplotlib
 reportlab
 openai
